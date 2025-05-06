@@ -1,9 +1,9 @@
-# ✨ ESPAura – Private Ambilight Firmware
+# ✨ ESPAura – Custom Ambilight Firmware for ESP8266 (Private Project)
 
 ![Status: Private](https://img.shields.io/badge/status-private-red?style=for-the-badge&logo=lock)
 ![Development: In Progress](https://img.shields.io/badge/development-in--progress-yellow?style=for-the-badge&logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/esteladac/espaura?style=for-the-badge)
-[![Copyright](https://img.shields.io/badge/%C2%A9%20Esteladac%202025%20-%20Copyright-black?style=for-the-badge)]([https://github.com/esteladac](https://github.com/esteladac/espaura/blob/main/README.md))
+[![Copyright](https://img.shields.io/badge/%C2%A9%20Esteladac%202025%20-%20Copyright-black?style=for-the-badge)](https://github.com/esteladac)
 ![GitHub Repo stars](https://img.shields.io/github/stars/esteladac/espaura?style=for-the-badge)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M01CZIRW)
 
@@ -14,8 +14,12 @@
 > ⚠️ **This project is currently in development for a final product that will be sold.**  
 > The code is strictly **private** and **should not be used or redistributed** under any circumstances by anyone who does not have explicit, written, and signed permission from **Esteladac**.
 
-> 🔧 **The code of [this repository](https://github.com/esteladac/ambilight_firmware) is currently being rewrited under this repository.**  
+> 🔧 **The code of [this repository](https://github.com/esteladac/ambilight_firmware) is currently being rewritten under this repository.**  
 > Updates will be available **before June 2025**.
+
+> 📬 If someone has forked or modified the code and wishes to make it public, it may be allowed after a full review and approval by Esteladac. Publication can only happen on the main branch of this repository or in an officially acknowledged annex (with explicit written consent).
+
+> 🧪 This code will be open-sourced once completed and tested with most compatible hardware setups.
 
 ---
 
@@ -33,7 +37,7 @@
 
 | Feature                          | Status          |
 |----------------------------------|-----------------|
-| Some Github repo and Readme      | ✅ Completed    |
+| Initial repository and README    | ✅ Completed    |
 | Multiple file C++ structure      | 🔧 In Progress  |
 | USB Adalight support             | 🔜 Planned      |
 | Manual LED override mode         | 🔜 Planned      |
@@ -70,4 +74,4 @@ This project is **private** and **not intended for public use or distribution**.
 
 ---
 
-> Built by **Esteladac** with ❤️
+> Built by **Esteladac** with ❤️ and time 
