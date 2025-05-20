@@ -61,14 +61,6 @@ Let me know if you'd like it more casual, technical, or translated into another 
 
 ---
 
-## 🚫 What This Is **Not**
-
-- ❌ A public project or general-purpose firmware  
-- ❌ Maintained with issue support or PR review  
-- ❌ Compatible with all setups – it is **hardware-specific**  
-
----
-
 ## 📷 Showcase
 
 You can follow the visual progress of ESPAura on my Instagram:  
