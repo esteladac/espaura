@@ -9,7 +9,16 @@
 
 ---
 
-**ESPAura** is a modular, personal Ambilight firmware built for ESP8266-based microcontrollers (like the D1 Mini), designed and developed by **Esteladac** for a custom LED setup. It enables LED screen backlighting via the Adalight protocol and allows for customizable LED settings, but is tailored specifically to **Esteladac's** hardware.
+## Current Status
+
+> **Esteladac:** This project is currently on hold — I'll be back to it soon! In the meantime, feel free to explore my other repositories where I'm actively working on new ideas.
+
+---
+
+Let me know if you'd like it more casual, technical, or translated into another language.
+
+
+**ESPAura** is a modular, personal Ambilight firmware built for ESP8266-based microcontrollers (like the D1 Mini), designed and developed by **Esteladac** for a custom LED setup. It enables LED screen backlighting via the Adalight protocol and allows for customizable LED settings.
 
 > ⚠️ **This project is currently in development for a final product that will be sold.**  
 > The code is strictly **private** and **should not be used or redistributed** under any circumstances by anyone who does not have explicit, written, and signed permission from **Esteladac**.
