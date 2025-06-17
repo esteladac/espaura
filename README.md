@@ -1,9 +1,8 @@
-# ✨ ESPAura – Custom Ambilight Firmware for ESP8266 (Private Project)
+# ✨ ESPAura – Ambilight Firmware for Arduino boards
 
 ![Status: Private](https://img.shields.io/badge/status-private-red?style=for-the-badge&logo=lock)
 ![Development: In Progress](https://img.shields.io/badge/development-in--progress-yellow?style=for-the-badge&logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/esteladac/espaura?style=for-the-badge)
-[![Copyright](https://img.shields.io/badge/%C2%A9%20Esteladac%202025%20-%20Copyright-black?style=for-the-badge)](https://github.com/esteladac)
 ![GitHub Repo stars](https://img.shields.io/github/stars/esteladac/espaura?style=for-the-badge)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M01CZIRW)
 
@@ -11,13 +10,13 @@
 
 ## Current Status
 
-> **Esteladac:** This project is currently on hold — I'll be back to it soon! In the meantime, feel free to explore my other repositories where I'm actively working on new ideas.
+> **Esteladac:** First version coming soon !
 
 ---
 
 **ESPAura** is a modular, personal Ambilight firmware built for ESP8266-based microcontrollers (like the D1 Mini), designed and developed by **Esteladac** for a custom LED setup. It enables LED screen backlighting via the Adalight protocol and allows for customizable LED settings.
 
-> ⚠️ **This project is currently in development for a final product that will be sold.**  
+> ⚠️ **This project is currently in development and may not work with your hardware. Feel free to open an issue if you encounter any problems.** 
 > The code is strictly **private** and **should not be used or redistributed** under any circumstances by anyone who does not have explicit, written, and signed permission from **Esteladac**.
 
 > 🔧 **The code of [this repository](https://github.com/esteladac/ambilight_firmware) is currently being rewritten under this repository.**  
@@ -67,8 +66,8 @@ You can follow the visual progress of ESPAura on my Instagram:
 
 ## 📜 License
 
-Licensed under the [Copyright](https://github.com/esteladac/espaura) terms of **Esteladac 2025**.  
-This project is **private** and **not intended for public use or distribution**. Please do not reuse, redistribute, or use the code in any form without explicit, written, and signed permission from **Esteladac**.
+Copyright (c) 2025 Esteladac
+See the [LICENSE](LICENSE.md) file for details.
 
 ---
 
