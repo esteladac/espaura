@@ -10,7 +10,7 @@
 
 ## Current Status
 
-> **Esteladac:** First version coming soon !
+> **Esteladac:** I'm actually working on user settings using eeprom the first version with basic adalight will be available soon
 
 ---
 
